@@ -1,8 +1,7 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education				       		
+- M.Sc Applied Data Science	| SRM Institute of Science and Technology(_April 2024_)	 			        		
+- B.Sc Mathematics | Dwaraka Doss Goverdhan Doss Vaishnav College (__April 2021_)
