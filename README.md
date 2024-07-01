@@ -5,7 +5,7 @@
 
 ## Education							       		
 - M.Sc, Applied Data Science	| SRM Institute of Science & Technology (_April 2024_)	 			        		
-- B.Sc, Physics | DG Vaishnav College (_May 2021_)
+- B.Sc, Mathematics |           DG Vaishnav College (_May 2021_)
 
 ## Work Experience
 **Company Name- Shiash Info Solution Private Limited(_on-site_)**
