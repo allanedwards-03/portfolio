@@ -1,1 +1,5 @@
-
+titles: Allan TM
+#logo:
+#descripition: text below image
+show_downloads: true
+theme: jekyll-remote-theme
