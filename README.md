@@ -20,3 +20,17 @@
 - Technologie Used: AWS
 - Description: Gained proficiency in various AWS services and techniques, including EC2 instances, S3 storage, IAM roles, Elastic Beanstalk.
 
+## Projects
+### 1.Job Market Analysis
+
+- Utilized K-means clustering to analyze job market trends, identifying patterns and segments for targeted strategies and insights.
+
+[link](https://www.youtube.com/watch?v=D9CLhQdLp8w)
+
+### 2.Multilingual Sentimental Analysis
+
+- A sentimental analysis using transformer library that contains pre-trained models in NLP. This model gives accurate loss and accuracy for the given input data and also visualizes the accuracy.
+
+
+
+
