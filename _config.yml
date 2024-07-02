@@ -3,5 +3,5 @@ logo: IMG-20210825-WA0003 (1).jpg
 description: |
   Chennai, Tamil Nadu
   
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
