@@ -14,7 +14,7 @@
 - Technologies Used: Django, Machine Learning Techniques
 - Description: Completed internship focused on developing skills in Django web development and implementing machine learning techniques.
 
-**Company Name- Skill Vertex (Olive Board Comptech private limited)(_virtual_)** |
+**Company Name- Skill Vertex (Olive Board Comptech private limited)(_virtual_)**
 - Duration: Mar 2023 – Apr 2023
 - Role:  Cloud Computing
 - Technologie Used: AWS
@@ -30,7 +30,7 @@
 
 ## Certificates
 
-- Accenture North America Data Analytics and Visualization [limk]https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
+- Accenture North America Data Analytics and Visualization 
 - AWS Academy Graduate - AWS Academy Cloud Architecting
 - AWS Academy Graduate - AWS Academy Cloud Foundations
 - Introduction to Microsoft Excel an online non-credit project authorized by Coursera Project Network and offered through Coursera
