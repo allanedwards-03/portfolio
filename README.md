@@ -5,7 +5,7 @@
 
 ## Education							       		
 - M.Sc, Applied Data Science	| SRM Institute of Science & Technology (_April 2024_)	 			        		
-- B.Sc, Mathematics |          DG Vaishnav College (_May 2021_)
+- B.Sc, Mathematics           | DG Vaishnav College (_May 2021_)
 
 ## Work Experience
 **Company Name- Shiash Info Solution Private Limited(_on-site_)**
@@ -22,14 +22,27 @@
 
 ## Projects
 ### 1.Job Market Analysis
-
 - Utilized K-means clustering to analyze job market trends, identifying patterns and segments for targeted strategies and insights.
-
-[link](https://www.youtube.com/watch?v=D9CLhQdLp8w)
 
 ### 2.Multilingual Sentimental Analysis
 
 - A sentimental analysis using transformer library that contains pre-trained models in NLP. This model gives accurate loss and accuracy for the given input data and also visualizes the accuracy.
+
+## Certificates
+
+- Accenture North America Data Analytics and Visualization [limk]https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
+- AWS Academy Graduate - AWS Academy Cloud Architecting
+- AWS Academy Graduate - AWS Academy Cloud Foundations
+- Introduction to Microsoft Excel an online non-credit project authorized by Coursera Project Network and offered through Coursera
+- HackerRank- SQL Basic
+- Great Learning-UI/UX for Beginners
+
+## Skills
+- Adaptability | Effective Communication | Problem Solving
+
+## Languages
+- English
+- Tamil
 
 
 
