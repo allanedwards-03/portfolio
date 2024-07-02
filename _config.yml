@@ -3,5 +3,6 @@ logo: IMG-20210825-WA0003 (1).jpg
 description: "Contact email: allantmedwards@gmail.com"
 description: "Contact Number: 8939091948"
 description: "Chennai, Tamil Nadu"
-#show_downloads: true
+show_downloads: true
 #theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
