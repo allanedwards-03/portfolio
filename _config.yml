@@ -1,6 +1,6 @@
 title: ALLAN TM
 logo: IMG-20210825-WA0003 (1).jpg
-description: **email_id: allantmedwards@gmail.com**
-
+#description: **email_id: allantmedwards@gmail.com**
+description: "Contact email: allantmedwards@gmail.com"
 #show_downloads: true
 theme: jekyll-theme-minimal
