@@ -2,11 +2,11 @@
 An emerging Data science professional, with a solid understanding in statistical analysis and machine learning techniques to derive actionable insights gained through internships and career knowledge. Seeking to apply advanced analytical skills and programming proficiency to solve complex problems.
 
 ## Technical Skills 
-- Python
-- SQL
-- AWS
-- Tableau
-- Power BI
+- Python |
+- SQL |
+- AWS |
+- Tableau |
+- Power BI |
 
 ## Education							       		
 - M.Sc, Applied Data Science | SRM Institute of Science & Technology (_April 2024_)
