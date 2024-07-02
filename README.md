@@ -44,10 +44,13 @@ An emerging Data science professional, with a solid understanding in statistical
 - Great Learning-UI/UX for Beginners
 
 ## Skills
-- Adaptability |- Effective Communication |- Problem Solving
+- Adaptability |
+- Effective Communication |
+- Problem Solving
 
 ## Languages
 - English
+
 - Tamil
 
 
