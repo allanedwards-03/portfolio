@@ -1,4 +1,4 @@
-# About 
+## About 
 An emerging Data science professional, with a solid understanding in statistical analysis and machine learning techniques to derive actionable insights gained through internships and career knowledge. Seeking to apply advanced analytical skills and programming proficiency to solve complex problems.
 
 ## Technical Skills 
