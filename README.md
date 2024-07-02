@@ -39,7 +39,7 @@ An emerging Data science professional, with a solid understanding in statistical
 - Accenture North America Data Analytics and Visualization 
 - AWS Academy Graduate - AWS Academy Cloud Architecting
 - AWS Academy Graduate - AWS Academy Cloud Foundations
-- Introduction to Microsoft Excel an online non-credit project authorized by Coursera Project Network and offered through Coursera
+- Introduction to Microsoft Excel an online non-credit project authorized by Coursera
 - HackerRank- SQL Basic
 - Great Learning-UI/UX for Beginners
 
