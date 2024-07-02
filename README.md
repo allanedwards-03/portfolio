@@ -20,7 +20,7 @@ An emerging Data science professional, with a solid understanding in statistical
 - Technologies Used: Django, Machine Learning Techniques
 - Description: Completed internship focused on developing skills in Django web development and implementing machine learning techniques.
 
-**Company Name- Skill Vertex Olive Board Comptech Private Limited**(_virtual_)
+**Company Name- Skill Vertex Olive Board Comptech Private Limited**(_virtual_) 
 - Duration: Mar 2023 – Apr 2023
 - Role:  Cloud Computing
 - Technologie Used: AWS
@@ -46,12 +46,12 @@ An emerging Data science professional, with a solid understanding in statistical
 ## Skills
 - Adaptability |
 - Effective Communication |
-- Problem Solving
+- Problem Solving |
 
 ## Languages
-- English
+- English |
 
-- Tamil
+- Tamil |
 
 
 
