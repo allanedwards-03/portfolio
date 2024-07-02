@@ -9,11 +9,9 @@ An emerging Data science professional, with a solid understanding in statistical
 - Power BI
 
 ## Education							       		
-- M.Sc, Applied Data Science
- | SRM Institute of Science & Technology (_April 2024_)
+- M.Sc, Applied Data Science | SRM Institute of Science & Technology (_April 2024_)
   	 			        		
-- B.Sc, Mathematics
-  DG Vaishnav College (_May 2021_)
+- B.Sc, Mathematics | DG Vaishnav College (_May 2021_)
 
 ## Work Experience 
 **Company Name- Shiash Info Solution Private Limited** (_on-site_)
@@ -29,10 +27,10 @@ An emerging Data science professional, with a solid understanding in statistical
 - Description: Gained proficiency in various AWS services and techniques, including EC2 instances, S3 storage, IAM roles, Elastic Beanstalk.
 
 ## Projects
-### 1.Job Market Analysis
+### Job Market Analysis
 - Utilized K-means clustering to analyze job market trends, identifying patterns and segments for targeted strategies and insights.
 
-### 2.Multilingual Sentimental Analysis
+### Multilingual Sentimental Analysis
 
 - A sentimental analysis using transformer library that contains pre-trained models in NLP. This model gives accurate loss and accuracy for the given input data and also visualizes the accuracy.
 
